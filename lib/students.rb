@@ -1,7 +1,7 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks.
 
 def highest_student_gpa
-  "SELECT MAX(students) FROM value;"
+  "SELECT MAX(INSERT INTO) FROM VALUES;"
 end
 
 def lowest_student_gpa
